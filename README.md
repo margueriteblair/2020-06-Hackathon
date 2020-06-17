@@ -5,6 +5,6 @@ We're also getting an image of the city from Google images.
 
 Chelsea Arceo, this is my change.
 Bobby Alestra, I have made my change.
-Jamie Stewart, making new chnages.
+Jamie Stewart, making new changes.
 Shawn O'Brien, this is your line to change.
 Will Brown, this is your line to change.
